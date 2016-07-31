@@ -1,0 +1,31 @@
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.content{
+	width: 1000px;
+	height: 440px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: #ffffff;
+	font-family: "Microsoft Yahei"
+}
+.content1{
+	float: left;
+	width: 120px;
+	height: 30px;
+	background: #c900d7;
+	color: #ffffff;
+	line-height: 30px;
+	text-align: center;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.content2 img{
+	float: left;
+	margin-top: -5px;
+	width: 940px;
+	margin-left: 25px;
+}

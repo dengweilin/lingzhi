@@ -1,0 +1,98 @@
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.content{
+	width: 1000px;
+	height: 1200px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: #f5f5f5;
+	font-family: "Microsoft Yahei"
+}
+
+.content1{
+	position: relative;
+	left: 30px;
+	top: 30px;
+	width: 90px;
+	height: 30px;
+	background: #cb00da;
+	color: #ffffff;
+	font-size: 16px;
+	text-align: center;
+	line-height: 30px;
+}
+.content2{
+	position: relative;
+	left: 30px;
+	top: 30px;
+	width: 940px;
+	height: 1020px;
+	background: #ffffff;
+	z-index: 2;
+}
+.content2-1{
+	position: relative;
+	left: 30px;
+	top: 30px;
+	width: 880px;
+	height: 280px;
+	background: url(../img/gsjj1.png);
+}
+
+.content2-2{
+	position: relative;
+	left: 30px;
+	top: 60px;
+	width: 880px;
+	height: 280px;
+}
+.content2-2-1{
+	float: left;
+	width: 550px;
+	font-size: 12px;
+	line-height: 18px;
+}
+.content2-2-2 img{
+	float: right;
+	width: 300px;
+	height: 280px;
+}
+.content2-3{
+	position: relative;
+	left: 30px;
+	top: 90px;
+	width: 880px;
+	height: 280px;
+}
+.content2-3-1 img{
+	float: left;
+	width: 425px;
+	height: 280px;
+}
+.content2-3-2 img{
+	float: right;
+	width: 425px;
+	height: 280px;
+}
+
+
+
+
+
+
+
+
+.content3{
+	position: relative;
+	left: 30px;
+	top: -60px;
+	width: 940px;
+	height: 166px;
+	background: url(../img/gsjj5.png) no-repeat;
+	background-size: 100% 100%;
+	z-index: 1;
+}

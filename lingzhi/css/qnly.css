@@ -1,0 +1,105 @@
+.content{
+	width: 1000px;
+	height: 700px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: #f5f5f5;
+	font-family: "Microsoft Yahei"
+}
+
+.content1{
+	position: relative;
+	left: 275px;
+	top: 35px;
+	width: 90px;
+	height: 30px;
+	background: #cb00da;
+	color: #ffffff;
+	font-size: 16px;
+	text-align: center;
+	line-height: 30px;
+}
+.content2{
+	position: relative;
+	left: 275px;
+	top: 35px;
+	width: 420px;
+	height: 520px;
+	background: #ffffff;
+	z-index: 2;
+}
+.content2 dl{
+	position: relative;
+	left: 45px;
+	top: 55px;
+}
+.content2 dd{
+	line-height: 40px;
+}
+.content2-1 input{
+	background: #ebebeb;
+	height: 30px;
+}
+.content3{
+	position: relative;
+	top: -45px;
+	left: 220px;
+	width: 532px;
+	height: 161px;
+	background:url(../img/qnly1.png);
+	z-index: 1;
+}
+.content2-3 select{
+	background: #ebebeb;
+	height: 30px;
+}
+
+.content2-5 {
+	line-height: 40px;
+}
+.content2-5 textarea{
+	width: 195px;
+	height: 90px;
+	background: #ebebeb;
+}
+.content2-6 input{
+	width: 60px;
+	height: 30px;
+	background: #ebebeb;
+}
+.content2-6 a{
+	color: blue;
+	font-size: 12px;
+	text-decoration: underline;
+}
+.content2-7{
+	position: relative;
+	left: 250px;
+	top: 35px;
+	width: 90px;
+	height: 30px;
+	background: #cb00da;
+	font-size: 16px;
+	text-align: center;
+	line-height: 40px;
+}
+.content2-7 a{
+	color: #ffffff;
+}
+.content2-8{
+	position: relative;
+	left: 260px;
+	top: 35px;
+	width: 90px;
+	height: 30px;
+	font-size: 12px;
+	text-align: center;
+}
+.content2-8 a{
+	color: blue;
+	text-decoration: underline;
+}
+
+
+
